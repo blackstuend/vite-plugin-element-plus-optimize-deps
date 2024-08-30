@@ -4,8 +4,8 @@ Help you to optimize the deps of element-plus, avoid the page reload when you en
 ## Use this plugin when you have this problem:
   https://github.com/vitejs/vite/issues/5419
 
- [vite] ✨ new dependencies optimized: element-plus/es/components/pagination/style/css
- [vite] ✨ optimized dependencies changed. reloading
+* [vite] ✨ new dependencies optimized: element-plus/es/components/pagination/style/css
+* [vite] ✨ optimized dependencies changed. reloading
 
 ## Install
 ```bash

@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-element-plus-optimize-deps",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@9.5.0",
   "description": "A Vite plugin that checks for version mismatches between your package.json and installed dependencies, ensuring consistency across development environments and preventing version-related issues.",
   "author": "LucianLin",
